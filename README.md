@@ -2,11 +2,11 @@
 
 <img src="auth1.png"
      alt="Phone authetication image 1"
-      width="100px"
+      width="300px"
       height="300px"/>
 <img src="auth2.png"
      alt="Phone authetication image 2"
-     width="100px"
+     width="300px"
      height="300px"
      style="width: 20px; height: 20px;" />
 
