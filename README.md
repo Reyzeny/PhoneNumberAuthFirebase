@@ -4,6 +4,7 @@
      alt="Phone authetication image 1"
       width="300px"
       height="600px"/>
+      ··
 <img src="auth2.png"
      alt="Phone authetication image 2"
      width="300px"
