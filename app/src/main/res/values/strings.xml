@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PhoneNumberAuth</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_home">Home</string>
+    <string name="contact">Contact</string>
+    <string name="account">Account</string>
+    <string name="admin">Admin</string>
+    <string name="authentication">Authentication</string>
+    <string name="verify">Verify</string>
+    <string name="phone_number">Phone number(e.g +2348765432)</string>
+    <string name="enter_code">Enter the code sent to your phone number</string>
+    <string name="invalid_phone_number">Valid phone number is required</string>
+    <string name="invalid_code">Invalid Code</string>
+    <string name="valid_code_required">Valid code is required</string>
+    <string name="resend_code">RESEND CODE</string>
+    <string name="need_auth_to_access">You need to be authenticated to access </string>
+    <string name="wrong_number">Wrong number?</string>
+</resources>
